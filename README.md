@@ -220,3 +220,16 @@ Credits: Everyone at [SimplyBLK's FN Builds](https://github.com/simplyblk/Fortni
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/20.40.zip|
+
+# Season 21
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 21.00-CL-20548557	           | N/A         	 | N/A           	    |	 [https://build.itztiva.com/2100]|
+| 21.10-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
+| 21.20-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
+| 21.30-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
+| 21.40-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
+| 21.50-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
+| 21.51-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
+
+
