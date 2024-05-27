@@ -5,7 +5,7 @@ Fortnite Builds!!!
 
 Im uploading personal versions i have and will in general clean this up.
 
-Credits: Everyone at [SimplyBLK's FN Builds](https://github.com/simplyblk/Fortnitebuilds), and [Notsammic](https://github.com/notsamicc/Fortnite-Builds)
+Credits: Everyone at [SimplyBLK's FN Builds](https://github.com/simplyblk/Fortnitebuilds), and [Notsammic](https://github.com/notsamicc/Fortnite-Builds) [Itztiva and ploosh.dev](https://github.com/itztiva/fortnitebuilds)
 
 
 # Downloads
