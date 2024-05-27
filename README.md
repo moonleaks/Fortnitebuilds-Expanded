@@ -69,7 +69,7 @@ Credits: Everyone at [SimplyBLK's FN Builds](https://github.com/simplyblk/Fortni
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://public.simplyblk.xyz/5.21.rar|
 | 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://public.simplyblk.xyz/5.30.rar|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://public.simplyblk.xyz/5.40.rar|
-| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		N/A|
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://cdn.fnbuilds.xyz/5.41-CL-4363240.rar|
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -194,8 +194,8 @@ Credits: Everyone at [SimplyBLK's FN Builds](https://github.com/simplyblk/Fortni
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
-| 17.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
+| 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A |
+| 17.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A  |
 | 17.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
 | 17.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		https://public.simplyblk.xyz/17.30.zip|
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
@@ -224,7 +224,7 @@ Credits: Everyone at [SimplyBLK's FN Builds](https://github.com/simplyblk/Fortni
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 21.00-CL-20548557	           | N/A         	 | N/A           	    |	 [https://build.itztiva.com/2100]|
+| 21.00-CL-20548557	           | N/A         	 | N/A           	    |	 https://build.itztiva.com/2100|
 | 21.10-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
 | 21.20-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
 | 21.30-CL-N/A	                | N/A         	 | N/A           	    |	 [N/A]|
